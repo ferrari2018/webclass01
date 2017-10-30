@@ -30,7 +30,7 @@ function onPageLoad(){
 		ctx.arc(offSetX, offSetY, r, 0, 0.5*Math.PI, false);
 		ctx.stroke(); 
 
-		shoot(ctx,r,10000000,offSetX, offSetY);
+		shoot(ctx,r,100000,offSetX, offSetY);
 	}else{
 		console.log("no canvasMain.Context");
 	}
