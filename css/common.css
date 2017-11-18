@@ -1,0 +1,4 @@
+body { background-color: #fefeaf;}
+.main_canvas {width:1120px;height:630px; background-color: #ffffff; }
+.button{padding:10px; border:solid 1px #000000; background-color: #00ffff;}
+.result{border:solid 1px #ffddaa;width:400px;height:300px;background-color:#ffddaa;}
