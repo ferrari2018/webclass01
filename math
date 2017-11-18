@@ -6,8 +6,7 @@
 	<link rel="stylesheet" href="css/pai.css" type="text/css" />
 
   </head>
-  <body>
-    <a href="./pai.html">Pai</a>
-    <a href="./math.html">Math1</a>
+  <body onload="onPageLoad();">
+  Math
   </body>
 </html>
